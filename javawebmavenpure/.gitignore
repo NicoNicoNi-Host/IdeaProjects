@@ -34,5 +34,29 @@ hs_err_pid*
 
 
 
-将删除 javaSE/src/main/resources/
 
+
+将删除 javaSE/src/main/java/com/fly/Runnable/
+将删除 javaSE/src/main/resources/
+将删除 javaSE/src/test/
+将删除 javaSE/target/generated-sources/
+将删除 javaweb-session-cookie/src/main/resource/
+将删除 javaweb-session-cookie/src/main/webapp/static/
+将删除 javaweb-session-cookie/target/generated-sources/
+将删除 jsp/src/main/java/com/fly/servlet/
+将删除 jsp/src/main/resource/
+将删除 jsp/src/main/webapp/static/
+将删除 jsp/target/generated-sources/
+将删除 mysql_test/target/generated-sources/
+将删除 mysql_test/target/serial_port_drive_motor/error/
+将删除 mysql_test/target/serial_port_drive_motor/motor/
+将删除 request/src/main/resource/
+将删除 request/target/generated-sources/
+将删除 response/target/generated-sources/
+将删除 serial_port_drive_motor/src/main/resource/
+将删除 serial_port_drive_motor/src/main/webapp/static/html/
+将删除 serial_port_drive_motor/target/generated-sources/
+将删除 serial_port_drive_motor/target/serial_port_drive_motor/error/
+将删除 serial_port_drive_motor/target/serial_port_drive_motor/motor/
+将删除 servlet-01/src/main/resource/
+将删除 servlet-02/target/generated-sources/

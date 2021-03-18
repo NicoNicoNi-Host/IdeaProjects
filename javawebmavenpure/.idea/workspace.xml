@@ -7,22 +7,10 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="80579a49-1ad4-4796-b0ce-554890d4f2c8" name="Default Changelist" comment="第二次提交">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="80579a49-1ad4-4796-b0ce-554890d4f2c8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../javaweb-00-maven/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../javaweb-00-maven/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/request/target/request.war" beforeDir="false" afterPath="$PROJECT_DIR$/request/target/request.war" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/request/target/request/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/request/target/request/META-INF/MANIFEST.MF" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/serial_port_drive_motor/target/classes/com/fly/servlet/MyServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/serial_port_drive_motor/target/classes/com/fly/servlet/MyServer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/serial_port_drive_motor/target/classes/com/fly/util/Constant.class" beforeDir="false" afterPath="$PROJECT_DIR$/serial_port_drive_motor/target/classes/com/fly/util/Constant.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/serial_port_drive_motor/target/serial_port_drive_motor.war" beforeDir="false" afterPath="$PROJECT_DIR$/serial_port_drive_motor/target/serial_port_drive_motor.war" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/serial_port_drive_motor/target/serial_port_drive_motor/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/serial_port_drive_motor/target/serial_port_drive_motor/META-INF/MANIFEST.MF" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/serial_port_drive_motor/target/serial_port_drive_motor/WEB-INF/classes/com/fly/servlet/MyServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/serial_port_drive_motor/target/serial_port_drive_motor/WEB-INF/classes/com/fly/servlet/MyServer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/serial_port_drive_motor/target/serial_port_drive_motor/WEB-INF/classes/com/fly/util/Constant.class" beforeDir="false" afterPath="$PROJECT_DIR$/serial_port_drive_motor/target/serial_port_drive_motor/WEB-INF/classes/com/fly/util/Constant.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/serial_port_drive_motor/target/serial_port_drive_motor/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/serial_port_drive_motor/target/serial_port_drive_motor/index.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/serial_port_drive_motor/target/serial_port_drive_motor/static/js/motor-control.js" beforeDir="false" afterPath="$PROJECT_DIR$/serial_port_drive_motor/target/serial_port_drive_motor/static/js/motor-control.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/serial_port_drive_motor/target/serial_port_drive_motor/sys/success.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/serial_port_drive_motor/target/serial_port_drive_motor/sys/success.jsp" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -100,16 +88,20 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/serial_port_drive_motor/src/main/webapp/sys/success.jsp">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="35" lean-forward="true" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
+            </state>
+          </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="30" selection-start-line="30" selection-end-line="30" />
+            <state relative-caret-position="370">
+              <caret line="60" column="34" lean-forward="true" selection-start-line="60" selection-start-column="34" selection-end-line="60" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -262,6 +254,58 @@
             <path>
               <item name="javawebmavenpure" type="b2602c69:ProjectViewProjectNode" />
               <item name="javawebmavenpure" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javawebmavenpure" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javawebmavenpure" type="462c0819:PsiDirectoryNode" />
+              <item name="javaSE" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javawebmavenpure" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javawebmavenpure" type="462c0819:PsiDirectoryNode" />
+              <item name="javaSE" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javawebmavenpure" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javawebmavenpure" type="462c0819:PsiDirectoryNode" />
+              <item name="javaSE" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javawebmavenpure" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javawebmavenpure" type="462c0819:PsiDirectoryNode" />
+              <item name="javaSE" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javawebmavenpure" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javawebmavenpure" type="462c0819:PsiDirectoryNode" />
+              <item name="javaSE" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javawebmavenpure" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javawebmavenpure" type="462c0819:PsiDirectoryNode" />
+              <item name="javaSE" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="fly" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javawebmavenpure" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javawebmavenpure" type="462c0819:PsiDirectoryNode" />
+              <item name="javaSE" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="javawebmavenpure" type="b2602c69:ProjectViewProjectNode" />
@@ -651,10 +695,25 @@
       <workItem from="1615453091902" duration="4661000" />
       <workItem from="1615999276153" duration="656000" />
     </task>
+    <task id="LOCAL-00001" summary="第二次提交">
+      <created>1616060729916</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1616060729916</updated>
+    </task>
+    <task id="LOCAL-00002" summary="第二次提交">
+      <created>1616060798193</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1616060798193</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="284679000" />
+    <option name="totallyTimeSpent" value="285874000" />
   </component>
   <component name="TodoView" selected-index="2">
     <todo-panel id="selected-file">
@@ -719,6 +778,14 @@
               <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
                 <collection />
               </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
             </State>
           </value>
         </entry>
@@ -740,6 +807,8 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="第二次提交" />
     <option name="LAST_COMMIT_MESSAGE" value="第二次提交" />
   </component>
@@ -1069,15 +1138,19 @@
     <entry file="file://$PROJECT_DIR$/serial_port_drive_motor/src/main/webapp/index.jsp">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/serial_port_drive_motor/src/main/webapp/sys/success.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="30" selection-start-line="30" selection-end-line="30" />
+        <state relative-caret-position="240">
+          <caret line="16" column="35" lean-forward="true" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/serial_port_drive_motor/src/main/webapp/sys/success.jsp">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="370">
+          <caret line="60" column="34" lean-forward="true" selection-start-line="60" selection-start-column="34" selection-end-line="60" selection-end-column="34" />
+        </state>
+      </provider>
     </entry>
   </component>
   <component name="masterDetails">

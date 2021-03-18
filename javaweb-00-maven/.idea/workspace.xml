@@ -2,21 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3cd99b3e-3111-4b98-b95e-773173c4b776" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../javawebmavenpure/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javawebmavenpure/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../javawebmavenpure/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javawebmavenpure/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../javawebmavenpure/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../javawebmavenpure/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../javawebmavenpure/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javawebmavenpure/request/target/request.war" beforeDir="false" afterPath="$PROJECT_DIR$/../javawebmavenpure/request/target/request.war" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javawebmavenpure/request/target/request/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/../javawebmavenpure/request/target/request/META-INF/MANIFEST.MF" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javawebmavenpure/serial_port_drive_motor/target/classes/com/fly/servlet/MyServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../javawebmavenpure/serial_port_drive_motor/target/classes/com/fly/servlet/MyServer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javawebmavenpure/serial_port_drive_motor/target/classes/com/fly/util/Constant.class" beforeDir="false" afterPath="$PROJECT_DIR$/../javawebmavenpure/serial_port_drive_motor/target/classes/com/fly/util/Constant.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javawebmavenpure/serial_port_drive_motor/target/serial_port_drive_motor.war" beforeDir="false" afterPath="$PROJECT_DIR$/../javawebmavenpure/serial_port_drive_motor/target/serial_port_drive_motor.war" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javawebmavenpure/serial_port_drive_motor/target/serial_port_drive_motor/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/../javawebmavenpure/serial_port_drive_motor/target/serial_port_drive_motor/META-INF/MANIFEST.MF" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javawebmavenpure/serial_port_drive_motor/target/serial_port_drive_motor/WEB-INF/classes/com/fly/servlet/MyServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../javawebmavenpure/serial_port_drive_motor/target/serial_port_drive_motor/WEB-INF/classes/com/fly/servlet/MyServer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javawebmavenpure/serial_port_drive_motor/target/serial_port_drive_motor/WEB-INF/classes/com/fly/util/Constant.class" beforeDir="false" afterPath="$PROJECT_DIR$/../javawebmavenpure/serial_port_drive_motor/target/serial_port_drive_motor/WEB-INF/classes/com/fly/util/Constant.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javawebmavenpure/serial_port_drive_motor/target/serial_port_drive_motor/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../javawebmavenpure/serial_port_drive_motor/target/serial_port_drive_motor/index.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javawebmavenpure/serial_port_drive_motor/target/serial_port_drive_motor/static/js/motor-control.js" beforeDir="false" afterPath="$PROJECT_DIR$/../javawebmavenpure/serial_port_drive_motor/target/serial_port_drive_motor/static/js/motor-control.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javawebmavenpure/serial_port_drive_motor/target/serial_port_drive_motor/sys/success.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../javawebmavenpure/serial_port_drive_motor/target/serial_port_drive_motor/sys/success.jsp" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/SSM/target/" />
@@ -81,6 +69,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
