@@ -33,3 +33,6 @@ gen
 hs_err_pid*
 
 
+
+将删除 javaSE/src/main/resources/
+
