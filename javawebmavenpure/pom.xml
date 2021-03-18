@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.fly</groupId>
+    <artifactId>javaweb-maven-pure</artifactId>
+    <packaging>pom</packaging>
+    <version>1.0-SNAPSHOT</version>
+    <!--    父项目独有-->
+    <modules>
+        <module>servlet-01</module>
+        <module>servlet-02</module>
+        <module>response</module>
+        <module>request</module>
+        <module>javaweb-session-cookie</module>
+        <module>jsp</module>
+        <module>serial_port_drive_motor</module>
+        <module>serial_port_drive_motor</module>
+        <module>filter</module>
+    </modules>
+
+    <!--在build中配置resources，来防止我们资源导出失败的问题-->
+    <build>
+        <resources>
+            <resource>
+                <directory>src/main/resources</directory>
+                <includes>
+                    <include>**/*.properties</include>
+                    <include>**/*.xml</include>
+                </includes>
+                <filtering>true</filtering>
+            </resource>
+            <resource>
+                <directory>src/main/java</directory>
+                <includes>
+                    <include>**/*.properties</include>
+                    <include>**/*.xml</include>
+                </includes>
+                <filtering>true</filtering>
+            </resource>
+
+            <resource>
+                <directory>src/main/webapp/resource</directory>
+                <includes>
+                    <include>**/*.properties</include>
+                    <include>**/*.xml</include>
+                </includes>
+                <filtering>true</filtering>
+            </resource>
+
+        </resources>
+
+
+    </build>
+
+    <repositories>
+        <!--    阿里云-->
+        <repository>
+            <id>alimaven</id>
+            <name>aliyun maven</name>
+            <url>http://maven.aliyun.com/nexus/content/groups/public/</url>
+            <releases>
+                <enabled>true</enabled>
+            </releases>
+            <snapshots>
+                <enabled>false</enabled>
+            </snapshots>
+        </repository>
+    </repositories>
+
+    <!--项目依赖-->
+    <dependencies>
+        <!--具体依赖的jar包配置文件-->
+        <dependency>
+            <groupId>junit</groupId>
+            <artifactId>junit</artifactId>
+            <version>4.11</version>
+            <!--            <scope>test</scope>-->
+        </dependency>
+
+        <!-- https://mvnrepository.com/artifact/javax.servlet/javax.servlet-api -->
+        <!--        servlet依赖-->
+        <dependency>
+            <groupId>javax.servlet</groupId>
+            <artifactId>javax.servlet-api</artifactId>
+            <version>4.0.1</version>
+        </dependency>
+
+        <!-- https://mvnrepository.com/artifact/javax.servlet.jsp/javax.servlet.jsp-api -->
+        <!--        jsp-->
+        <dependency>
+            <groupId>javax.servlet.jsp</groupId>
+            <artifactId>javax.servlet.jsp-api</artifactId>
+            <version>2.3.3</version>
+        </dependency>
+
+        <!--        JSTL表达式的依赖-->
+        <dependency>
+            <groupId>javax.servlet.jsp.jstl</groupId>
+            <artifactId>jstl-api</artifactId>
+            <version>1.2</version>
+        </dependency>
+        <!--        standard标签库-->
+        <dependency>
+            <groupId>taglibs</groupId>
+            <artifactId>standard</artifactId>
+            <version>1.1.2</version>
+        </dependency>
+
+        <!-- 在这里添加你的依赖； jnilib、dll文件太难配置，不如直接找Maven-->
+<!--                <dependency>-->
+<!--                    <groupId>rxtxcomm</groupId>  &lt;!&ndash; 库名称，也可以自定义 &ndash;&gt;-->
+<!--                    <artifactId>rxtxcomm</artifactId>    &lt;!&ndash;库名称，也可以自定义&ndash;&gt;-->
+<!--                    <version>2.1.7</version> &lt;!&ndash;版本号&ndash;&gt;-->
+<!--                    <scope>system</scope> &lt;!&ndash;作用域&ndash;&gt;-->
+<!--                    <systemPath>/Users/andrew/.m2/repository/FromWeb/rxtx-2.1-7-bins-r2/RXTXcomm.jar-->
+<!--                    </systemPath> &lt;!&ndash;项目根目录下的lib文件夹下&ndash;&gt;-->
+<!--                </dependency>-->
+
+<!--        <dependency>-->
+<!--            <groupId>rxtxcomm2.2-20081207</groupId>  &lt;!&ndash; 库名称，也可以自定义 &ndash;&gt;-->
+<!--            <artifactId>rxtxcomm2.2-20081207</artifactId>    &lt;!&ndash;库名称，也可以自定义&ndash;&gt;-->
+<!--            <version>2.2-20081207</version> &lt;!&ndash;版本号&ndash;&gt;-->
+<!--            <scope>system</scope> &lt;!&ndash;作用域&ndash;&gt;-->
+<!--            <systemPath>/Users/andrew/.m2/repository/FromWeb/mfz-rxtx-2.2-20081207-win-x64/RXTXcomm.jar-->
+<!--            </systemPath> &lt;!&ndash;项目根目录下的lib文件夹下&ndash;&gt;-->
+<!--        </dependency>-->
+
+
+<!--                <dependency>-->
+<!--                    <groupId>org.bidib.jbidib.org.qbang.rxtx</groupId>-->
+<!--                    <artifactId>rxtxcomm</artifactId>-->
+<!--                    <version>2.2</version>-->
+<!--                </dependency>-->
+
+
+        <!--RXTXComm-->
+        <!-- https://mvnrepository.com/artifact/org.rxtx/rxtx -->
+<!--        <dependency>-->
+<!--            <groupId>org.rxtx</groupId>-->
+<!--            <artifactId>rxtx</artifactId>-->
+<!--            <version>2.1.7</version>-->
+<!--        </dependency>-->
+
+
+        <!-- https://mvnrepository.com/artifact/mysql/mysql-connector-java -->
+        <dependency>
+            <groupId>mysql</groupId>
+            <artifactId>mysql-connector-java</artifactId>
+            <version>5.1.47</version>
+        </dependency>
+
+        <!-- https://mvnrepository.com/artifact/org.rxtx/rxtxcomm -->
+<!--        <dependency>-->
+<!--            <groupId>org.rxtx</groupId>-->
+<!--            <artifactId>rxtxcomm</artifactId>-->
+<!--            <version>2.2pre2</version>-->
+<!--        </dependency>-->
+    </dependencies>
+</project>
