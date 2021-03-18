@@ -9,16 +9,13 @@
 <jsp:include page="/common/header.jsp"/>
 
 
-
-
+<div style="text-align:center ">
     <h1>登录</h1>
     西华大学毕业设计
     <br>
     学号：3320170193236
     <%--${pageContext.request.contextPath}代表当前的项目--%>
     <%--这里表单表示的意思: 以post方式提交表单,提交到我们的Login请求--%>
-<div style="text-align:center " class="container">
-
     <form action="${pageContext.request.contextPath}/LoginServlet" method="post">
         用户名：<input type="text" name="username"> <br>
         密码： <input type="password" name="password"> <br>
@@ -27,6 +24,7 @@
     </form>
 
 </div>
+
 
 </body>
 

@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3cd99b3e-3111-4b98-b95e-773173c4b776" name="Default Changelist" comment="" />
+    <list default="true" id="3cd99b3e-3111-4b98-b95e-773173c4b776" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../javawebmavenpure/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javawebmavenpure/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../javawebmavenpure/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javawebmavenpure/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../javawebmavenpure/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javawebmavenpure/request/target/request.war" beforeDir="false" afterPath="$PROJECT_DIR$/../javawebmavenpure/request/target/request.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javawebmavenpure/request/target/request/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/../javawebmavenpure/request/target/request/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javawebmavenpure/serial_port_drive_motor/target/classes/com/fly/servlet/MyServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../javawebmavenpure/serial_port_drive_motor/target/classes/com/fly/servlet/MyServer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javawebmavenpure/serial_port_drive_motor/target/classes/com/fly/util/Constant.class" beforeDir="false" afterPath="$PROJECT_DIR$/../javawebmavenpure/serial_port_drive_motor/target/classes/com/fly/util/Constant.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javawebmavenpure/serial_port_drive_motor/target/serial_port_drive_motor.war" beforeDir="false" afterPath="$PROJECT_DIR$/../javawebmavenpure/serial_port_drive_motor/target/serial_port_drive_motor.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javawebmavenpure/serial_port_drive_motor/target/serial_port_drive_motor/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/../javawebmavenpure/serial_port_drive_motor/target/serial_port_drive_motor/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javawebmavenpure/serial_port_drive_motor/target/serial_port_drive_motor/WEB-INF/classes/com/fly/servlet/MyServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../javawebmavenpure/serial_port_drive_motor/target/serial_port_drive_motor/WEB-INF/classes/com/fly/servlet/MyServer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javawebmavenpure/serial_port_drive_motor/target/serial_port_drive_motor/WEB-INF/classes/com/fly/util/Constant.class" beforeDir="false" afterPath="$PROJECT_DIR$/../javawebmavenpure/serial_port_drive_motor/target/serial_port_drive_motor/WEB-INF/classes/com/fly/util/Constant.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javawebmavenpure/serial_port_drive_motor/target/serial_port_drive_motor/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../javawebmavenpure/serial_port_drive_motor/target/serial_port_drive_motor/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javawebmavenpure/serial_port_drive_motor/target/serial_port_drive_motor/static/js/motor-control.js" beforeDir="false" afterPath="$PROJECT_DIR$/../javawebmavenpure/serial_port_drive_motor/target/serial_port_drive_motor/static/js/motor-control.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javawebmavenpure/serial_port_drive_motor/target/serial_port_drive_motor/sys/success.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../javawebmavenpure/serial_port_drive_motor/target/serial_port_drive_motor/sys/success.jsp" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/SSM/target/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -57,68 +73,7 @@
     <favorites_list name="javaweb-00-maven" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SSM框架_MyBatis/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="39" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SSM框架_MyBatis/src/main/java/com/fly/pojo/User.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="25" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SSM框架_MyBatis/src/main/java/com/fly/dao/UserMapper.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SSM框架_MyBatis/src/main/resources/mybatis-config.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="78" selection-start-line="11" selection-start-column="78" selection-end-line="11" selection-end-column="78" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SSM框架_MyBatis/src/main/java/com/fly/utils/MybatisUtils.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="15" column="11" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/SSM框架_MyBatis/src/test/java/com/fly/dao/UserDaoTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="67" selection-start-line="19" selection-start-column="67" selection-end-line="19" selection-end-column="67" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -174,6 +129,7 @@
     <option name="width" value="1342" />
     <option name="height" value="852" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -202,134 +158,6 @@
             <path>
               <item name="javaweb-00-maven" type="b2602c69:ProjectViewProjectNode" />
               <item name="javaweb-00-maven" type="462c0819:PsiDirectoryNode" />
-              <item name="Myabtis-Study" type="462c0819:PsiDirectoryNode" />
-              <item name="mybatis-01" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javaweb-00-maven" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javaweb-00-maven" type="462c0819:PsiDirectoryNode" />
-              <item name="Myabtis-Study" type="462c0819:PsiDirectoryNode" />
-              <item name="mybatis-01" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javaweb-00-maven" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javaweb-00-maven" type="462c0819:PsiDirectoryNode" />
-              <item name="Myabtis-Study" type="462c0819:PsiDirectoryNode" />
-              <item name="mybatis-01" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javaweb-00-maven" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javaweb-00-maven" type="462c0819:PsiDirectoryNode" />
-              <item name="Myabtis-Study" type="462c0819:PsiDirectoryNode" />
-              <item name="mybatis-01" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javaweb-00-maven" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javaweb-00-maven" type="462c0819:PsiDirectoryNode" />
-              <item name="Myabtis-Study" type="462c0819:PsiDirectoryNode" />
-              <item name="mybatis-01" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="kuang" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javaweb-00-maven" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javaweb-00-maven" type="462c0819:PsiDirectoryNode" />
-              <item name="Myabtis-Study" type="462c0819:PsiDirectoryNode" />
-              <item name="mybatis-01" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="kuang" type="462c0819:PsiDirectoryNode" />
-              <item name="dao" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javaweb-00-maven" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javaweb-00-maven" type="462c0819:PsiDirectoryNode" />
-              <item name="Myabtis-Study" type="462c0819:PsiDirectoryNode" />
-              <item name="mybatis-01" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="kuang" type="462c0819:PsiDirectoryNode" />
-              <item name="pojo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javaweb-00-maven" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javaweb-00-maven" type="462c0819:PsiDirectoryNode" />
-              <item name="Myabtis-Study" type="462c0819:PsiDirectoryNode" />
-              <item name="mybatis-01" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="kuang" type="462c0819:PsiDirectoryNode" />
-              <item name="utils" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javaweb-00-maven" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javaweb-00-maven" type="462c0819:PsiDirectoryNode" />
-              <item name="Myabtis-Study" type="462c0819:PsiDirectoryNode" />
-              <item name="mybatis-01" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javaweb-00-maven" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javaweb-00-maven" type="462c0819:PsiDirectoryNode" />
-              <item name="Myabtis-Study" type="462c0819:PsiDirectoryNode" />
-              <item name="mybatis-01" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javaweb-00-maven" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javaweb-00-maven" type="462c0819:PsiDirectoryNode" />
-              <item name="Myabtis-Study" type="462c0819:PsiDirectoryNode" />
-              <item name="mybatis-01" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javaweb-00-maven" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javaweb-00-maven" type="462c0819:PsiDirectoryNode" />
-              <item name="Myabtis-Study" type="462c0819:PsiDirectoryNode" />
-              <item name="mybatis-01" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javaweb-00-maven" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javaweb-00-maven" type="462c0819:PsiDirectoryNode" />
-              <item name="Myabtis-Study" type="462c0819:PsiDirectoryNode" />
-              <item name="mybatis-01" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="kuang" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javaweb-00-maven" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javaweb-00-maven" type="462c0819:PsiDirectoryNode" />
               <item name="SSM框架_MyBatis" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -340,6 +168,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="database.console.LAST_STATE" value="false" />
@@ -518,7 +347,7 @@
   <component name="ToolWindowManager">
     <frame x="45" y="23" width="1342" height="852" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49605262" visible="true" weight="0.2576923" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49605262" visible="true" weight="0.2653846" />
       <window_info id="Structure" order="1" sideWeight="0.5039474" side_tool="true" weight="0.25384617" />
       <window_info id="Designer" order="2" />
       <window_info id="Capture Tool" order="3" />

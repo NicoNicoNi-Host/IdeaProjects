@@ -1,4 +1,6 @@
 <%@ page import="static com.fly.servlet.MyServer.statusStr" %>
+<%@ page import="com.fly.util.Constant" %>
+<%@ page import="java.io.File" %>
 <%@ page language="java" pageEncoding="UTF-8"
          contentType="text/html;charset=UTF-8" %>
 <%
@@ -102,7 +104,15 @@
     String s=null;
     if(statusStr!=null){
         s=statusStr;
+    }else{
+        if(Constant.COUNT==0){
+            Constant.COUNT=1; //刚登录时，s一定为null，此时不能输出急停状态
+            s=""; //写个空字符，不然页面显示null
+        }else{ //登录之后出现s为null
+            s="Error:电机已急停,请点击物理复位按钮";
+        }
     }
+
 %>
     <h3><font style="color: darkcyan" size="5"> <%=s%> </font> </h3>
 
